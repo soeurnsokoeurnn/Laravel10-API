@@ -16,5 +16,4 @@ trait ApiResponses
             'statusCode' => $statusCode,
         ], $statusCode);
     }
-
 }
